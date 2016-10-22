@@ -1,0 +1,47 @@
+
+When using Code Completion, you can accept the currently highlighted selection in the popup list with ⇥ key.
+Unlike accepting with the ⏎ key, the selected name will overwrite the rest of the name to the right of the caret. This can be especially useful for replacing one method or variable name with another.
+
+To navigate to the declaration of a class, method or variable used somewhere in the code, position the caret at the usage and press ⌘B. You can also click the mouse on usages with the Ctrl key pressed to jump to declarations.
+
+You can quickly find all places where a particular class, method or variable is used in the whole project by positioning the caret at the symbol's name or at its usage in code and pressing ⌥F7 (Find Usages in the popup menu).
+
+To open any class in the editor quickly, press ⌘N (Navigate | Class) and start typing the name of the class. Choose the class from a drop-down list that appears.
+
+A special variant of the Code Completion feature invoked by pressing ⌃Space twice allows you to complete the name of any class no matter if it was imported in the current file or not. If the class is not imported yet, the import statement is generated automatically.
+
+
+You can open any file in your project in a similar way by using ⇧⌘N (Navigate | File)
+
+To see all the available scratch files, choose Scratches view in the Project tool window.
+
+Alt + drag to select multiple fragments in column mode
+Alt + double-click to select multiple words
+
+Make your printouts (File | Print) nice and informative with the help of keywords.
+For example, use $DATE$ and $TIME$ to specify the exact date and time of the printout.
+
+
+
+
+Enable the horizontal scrolling with the mouse wheel by holding the Shift key.
+
+In PyCharm, you can have multiple cursors. Having pressed Alt, click the left mouse button at the desired position to set additional cursors in the editor.
+Press Esc to remove all the additional cursors but one that resides at the line at caret.
+
+PyCharm makes it possible to launch the embedded local terminal using keyboard only. Press ⌥F12, and see the terminal running.
+
+Did you know that you can edit both opening and closing tags in XML/HTML files ?
+Make sure to select the check box Simultaneous <tag></tag> editing in the Smart keys page of the Editor settings/preferences.
+
+Have you noticed the buttons >> << marking differences in the Differences viewer?
+You can simply apply differences between panes, by clicking one of these chevron buttons.
+Keep the Ctrl key pressed, and the chevron buttons change to _| |_. Click one of these buttons to append contents of the current pane of the Differences viewer to the other pane.
+If you keep Shift pressed, the chevrons turn into X . Click this button to revert changes.
+
+
+
+
+
+
+
